@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--名字与自定义view的类名一样-->
+    <declare-styleable name="AroundCircleBall">
+        <!--自定义圆的颜色-->
+        <attr name="circle_color" format="color"></attr>
+        <!--自定义颜色的半径-->
+        <attr name="circle_radius" format="dimension"></attr>
+        <!--圆心x轴-->
+        <attr name="circle_x" format="dimension"></attr>
+        <!--圆心y轴-->
+        <attr name="circle_y" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>
